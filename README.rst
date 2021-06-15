@@ -30,7 +30,8 @@ Downloader for chromedriver
 Features
 --------
 
-* TODO
+* Ensure the correct chromedriver, compatible with machine's Chrome, is
+present on the indicated path. If not, it downloads and copy it there.
 
 Credits
 -------
